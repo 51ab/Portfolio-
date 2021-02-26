@@ -2,7 +2,8 @@
 It is one of my web development project of building a portfolio using html,css and js.
 I have used Bootstrap to make this site mobile friendly . To enhance my knowledge , i have used hover effects, button , lorem ipsum language.
 Few key features of bootstrap used in the website are:
-Use Responsive Design with Bootstrap Fluid Containers
+
+Responsive Design with Bootstrap Fluid Containers
 
 Make Images Mobile Responsive
 
