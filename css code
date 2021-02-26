@@ -1,0 +1,139 @@
+*{
+  background-color:none;
+
+}
+.title {
+  background-color:#ff4c68;
+}
+h2{
+  font-family: montez;
+color:white;
+}
+h1{
+font-family: 'East Sea Dokdo', cursive;
+color:white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+.button{
+  position:relative;
+  left:500px;
+}
+.top-container{
+  text-align: center;
+}
+ .pic{
+  text-align:center;
+  position: relative;
+
+  left:500px;
+
+}
+.hello{
+  text-align: center;
+}
+p{
+  font-size: 1.5em;
+font-style: italic;
+color:skyblue;
+  left:260px;
+
+}
+.nav-item{
+
+  left:700px;
+}
+navbar-nav ml-auto{
+  left:800px;
+  text-align: center;
+}
+#feature{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align:center;
+  padding:5%;
+
+}
+
+.icon{
+  color:#ef8172;
+
+}
+h5{
+color:crimson;
+}
+.icon:hover{
+  color:crimson;
+}
+.carousel-item{
+height:250px;
+width:200px;
+background-color:grey;
+}
+
+.card-container{
+  display:flex;
+  width:100%;
+
+  text-align: center;
+  left:50px;
+  right:50px;
+  grid-gap: 150px;
+
+}
+
+.card{
+  background-color:crimson;
+}
+@media(max-width:700px)
+{
+.pic{
+left:170px;
+height:80px;
+width:80px;
+position: static;
+}
+.button{
+  left:170px;
+}
+
+}
+.path-heading{
+  color:white;
+  font-family: sans-serif;
+  height:150px;
+  text-align: center;
+}
+.path-container .btnpath{
+  text-align: center;
+left:150px;
+bottom:50px;
+grid-gap:100px;
+}
+#footer{
+  padding 7% 15%;
+  text-align: center;
+  text-decoration: none;
+  font-family: sans-serif;
+  height:300px;
+  top: 50px;
+}
+.footpara{
+  color:grey;
+}
+#footer{
+  top:80px;
+}
+.social-icon{
+  top: 200px;
+  position:center;
+  margin: 20px 20px;
+  grid-gap: 60px;
+  width:30px;
+  display:inline;
+  font-size:30px;
+
+}
