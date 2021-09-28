@@ -25,9 +25,12 @@ color:white;
   text-align: center;
 }
  .pic{
-  text-align:center;
-  position: center;
-   left:200px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
 
  
 
